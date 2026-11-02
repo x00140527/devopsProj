@@ -1,2 +1,2 @@
-echo 5
+echo FIVE
 ./count6.sh
