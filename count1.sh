@@ -1,2 +1,2 @@
-echo ONE
+echo 1(ONE)
 ./count2.sh
